@@ -7,7 +7,6 @@ import { Rating } from './components/Rating/Rating';
 
 
 function App() {
-  // @ts-ignore
   return (
       <div>
         <PageTitle title={"This is App component"} />
